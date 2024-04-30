@@ -1,6 +1,6 @@
 # Com Picles?/With Pickles?
 
-<img src= "https://github.com/ma7hz/dev-burger/blob/main/assets/Dev%20Burger%20(intro).PNG"
+<img src= "https://github.com/ma7hz/dev-burger/blob/main/assets/Dev%20Burger%20(intro).PNG">
 
 <p>Mais um projeto utilizando Javascript; desta vez, simulei um cardápio de uma hambúrgueria fictícia, nomeada de Dev Burger!</p>
 

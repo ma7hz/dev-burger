@@ -36,4 +36,4 @@ These are basic functions, but extremely important, as they manipulate and autom
 
 </h2>
 
-<h3 src="https://ma7hz.github.io/dev-burger/">Projeto/Project</h3>
+This site was built using [GitHub Pages](https://pages.github.com/)

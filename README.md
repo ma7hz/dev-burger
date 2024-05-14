@@ -36,4 +36,4 @@ These are basic functions, but extremely important, as they manipulate and autom
 
 </h2>
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+Teste o projeto/Test the project, [Link!]([https://pages.github.com/](https://ma7hz.github.io/dev-burger/))

@@ -26,7 +26,7 @@ São funções básicas, mas de suma importância, pois manipulam e automaizam a
 These are basic functions, but extremely important, as they manipulate and automate the modifications of an array.
 </p>
 
-<h1>Linguagens Utilizadas:</h1>
+<h1>Linguagens Utilizadas/Languages ​​used:</h1>
 
 <h2>
 
@@ -35,3 +35,5 @@ These are basic functions, but extremely important, as they manipulate and autom
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </h2>
+
+<h3 src="https://ma7hz.github.io/dev-burger/">Projeto/Project</h3>

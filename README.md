@@ -36,4 +36,4 @@ These are basic functions, but extremely important, as they manipulate and autom
 
 </h2>
 
-Teste o projeto/Test the project, [Link!]([https://pages.github.com/](https://ma7hz.github.io/dev-burger/))
+Teste o projeto/Test the project, [Link!]([https://pages.github.com/](https://ma7hz.github.io/dev-burger/)
